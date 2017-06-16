@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="page-content {{ page.path | replace: "/", "" }}">
+      <div class="header">
+        {% include header.html %}
+      </div>
+      <div class="page-content-holder">
+        <div class="content wrapper">
+          {{ content }}
+        </div>
+      </div>
+
+    </div>
+
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
