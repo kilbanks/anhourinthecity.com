@@ -58,6 +58,13 @@
         letter-spacing: -1px;
         margin: 0 auto;
 
+        @include media-query(1200px) {
+          font-size: 50px;
+        }
+        @include media-query(600px) {
+          font-size: 38px;
+        }
+
         &,
         &:visited {
           color: $grey-color-dark;
