@@ -9,6 +9,8 @@ I invite you all to join me  on my birthday gift to myself, a commitment to walk
 
 <div class="tiles row">
   {% for post in site.posts %}
-    {% include tile.html post=post display="" %}
+    {% if post.published == true %}
+      {% include tile.html post=post display="" %}
+    {% endif %}
   {% endfor %}
 </div>
