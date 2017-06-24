@@ -16,10 +16,6 @@
           <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
             {{ post.date | date: "%b %-d, %Y" }}
           </time>
-          by 
-          <!-- <a itemprop="author" href="{{ author.slug | prepend: '/team/' |  prepend: site.baseurl  }}" class="ui link"> -->
-            {{author.display_name}}
-          <!-- </a> -->
         </div>
       </div>
     </h1>

@@ -7,6 +7,8 @@ Welcome! My name is Kayla and I’m flaky... but mostly when it comes to myself.
 
 I invite you all to join me  on my birthday gift to myself, a commitment to walking an hour every day for 30 days & writing about what I see. I live in San Francisco, so an hour long walk is bound to be entertaining. Or maybe it won’t & I’ll be miserable, who knows. This commitment seems small in the grand scheme of things, but it’s mine & I like it. I hope you will too. 
 
-{% for post in site.posts %}
-  {% include post.html post=post display=post.excerpt %}
-{% endfor %}
+<div class="tiles row">
+  {% for post in site.posts %}
+    {% include tile.html post=post display="" %}
+  {% endfor %}
+</div>
