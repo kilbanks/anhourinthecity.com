@@ -5,13 +5,10 @@
   <header>
     <h1 class="ui post_header">
       <div class="content">
-        {% if post == page %}
-          <span itemprop="name headline">{{ post.title }}</span>
-        {% else %}
-          <a href="{{ post.url }}" class="ui post_header" itemprop="name headline">
-            <h1>{{ post.title }}</h1>
-          </a>
-        {% endif %}
+        <span itemprop="name headline">{{ post.title }}</span>
+        <a href="{{ post.url }}" class="ui post_header" itemprop="name headline">
+          <h1>{{ post.title }}</h1>
+        </a>
         <div class="sub post_header">
           <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
             {{ post.date | date: "%b %-d, %Y" }}
