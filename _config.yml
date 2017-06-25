@@ -37,13 +37,12 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
+          label: "title"
       - name: "day"
         field:
           element: "number"
           label: "Day number"
+          type: "number"
       - name: "date"
         field:
           element: "text"
