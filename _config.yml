@@ -27,3 +27,25 @@ defaults:
       type: "posts"
     values:
       layout: post
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://anhourinthecity.com/'
+  media: 'images'
+  metdata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "day"
+        field:
+          element: "number"
+          label: "Day number"
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+          label: "Post date"
