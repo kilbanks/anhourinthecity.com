@@ -46,5 +46,5 @@ prose:
       - name: "date"
         field:
           element: "text"
-          value: CURRENT_DATETIME
+          value: "CURRENT_DATETIME"
           label: "Post date"
