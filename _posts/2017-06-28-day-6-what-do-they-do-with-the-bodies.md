@@ -16,7 +16,7 @@ About 40 minutes into our walk, we went by the San Francisco Mint. A huge and gr
 
 After hiking up several hills (and refusing to hike up a few) we finally reached the park and its endless stairs. It wasn’t long before we started noticing the marble tombstones lining the gutters. Some were dented and dirty, others smooth and clean. We even found a few with fragments of writing. It was SO COOL!! It’s also interesting knowing that no matter how many arrangements one can make, once you’re gone,you are gone. I don’t know about y’all, but I would much rather have my gravestone lining a park waiting to be discovered, rather than sitting in a manicured lawn. 
 
-![]({{site.baseurl}}/)![stairs.png]({{site.baseurl}}/images/stairs.png)
+![stairs.png]({{site.baseurl}}/images/stairs.png)
 So many stairs.
 
 ![leaves.png]({{site.baseurl}}/images/leaves.png)
