@@ -10,7 +10,7 @@ It’s starting to get colder and colder here. I didn’t wear enough layers tod
 
 Needless to say, it takes some getting used to the weather here. I’ve lived in this city for two years now and I still never know what to wear for the micro-climates. I thought my ears were going to fall off on it, but Chris & I discovered the coolest walkway/bridge. It went up over the highway and gave us wonderful views of the fog rolling in. 
 
-Speaking of my walking buddy, one disappointing aspect of my walks so far is that the one time Chris attended is the _only_ time that I haven’t been catcalled. I don’t know if men think it’s complimentary to yell things at women, but it’s not. It just makes me (and most women I know) uncomfortable. 
+Speaking of my walking buddy, one disappointing aspect of my walks so far is that the one time Chris attended is the _only_ time I haven’t been catcalled. I don’t know if men think it’s complimentary to yell things at women, but it’s not. It just makes me (and most women I know) uncomfortable. 
 
 Forty minutes into our walk, we entered what could be described as “not the best neighborhood”, and at first I felt myself become uncomfortable. It got me thinking though, it can be easy to want to avoid the seedier neighborhoods but I’ve found that when I walk through them, they’re actually the neighborhoods with the most culture, art, and people laughing. I soon found myself just caught up in the jovial vibe that is 6pm in the summer (even a cold one).  
 
@@ -18,12 +18,12 @@ We passed this weird peace sign house after about 15mins and knew we were gettin
 
 Once we got to the dinner party, my friend Mark surprised everyone and informed us he was moving to Chicago on Saturday! It was an unique way to get all his goodbyes done in one fell swoop. **BYE MARK!!!** I’ll miss you and your bread, but _mostly_ you. ;)
 
-![bridge.png]({{site.baseurl}}/images/bridge.png)
+![bridge.png]({{site.baseurl}}/images/bridge.png)  
 Ear Pain Bridge.
 
 
-![peace house.png]({{site.baseurl}}/images/peace house.png)
+![peace house.png]({{site.baseurl}}/images/peace house.png)  
 The big tree in front was covered in homemade wind chimes.
 
-![chris.png]({{site.baseurl}}/images/chris.png)
+![chris.png]({{site.baseurl}}/images/chris.png)  
 Chris having copious amounts of homemade bread and red wine.
