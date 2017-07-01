@@ -14,7 +14,7 @@ We chose to deal with Tenderloin on the way there and tourists on the way back. 
 
 Walking through Union Square, which is the shopping center that borders the Tenderloin, is such a strange combinations of smells. It really is a blending of the rich and the poor. You have the smell of department stores and perfume intermingling with the smell of piss and the occasional hot dog cart. I find it fascinating and depressing how San Francisco attempts to gild over its rampant homeless problem. 
 
-Wrapping up my blog early today because I am heading to my friend Ben’s Britney Spears themed birthday party!! It’s giving me the opportunity to do my of my **favorite** things; dress Chris is drag!!  
+Wrapping up my blog early today because I am heading to my friend Ben’s Britney Spears themed birthday party!! It’s giving me the opportunity to do one of my **favorite** things; dress Chris is drag!!  
 
 
 
