@@ -10,7 +10,7 @@ We also went and picked up Chris’ suit for the wedding. He looks so dapper and
 
 All the places we needed to get to were on the other side of Market St. Walking to and from Market street always poses the question of which you want to deal with more: tourists or the Tenderloin? Either way you’re gonna have to fight your way through a crowd that you don’t want to. 
 
-We chose to deal with Tenderloin on the way there and tourists on the way back. I think I prefer the Loin! Note to tourists visiting a city….please don’t stop in the middle of the sidewalk! There is nothing more annoying or there is no better way to scream that you are just visiting. Locals got shit to do — step to the side.(end rant) 
+We chose to deal with Tenderloin on the way there and tourists on the way back. I think I prefer the Loin! Note to tourists visiting a city….please don’t stop in the middle of the sidewalk! There is nothing more annoying and there is no better way to scream that you are just visiting. Locals got shit to do — step to the side.(end rant) 
 
 Walking through Union Square, which is the shopping center that borders the Tenderloin, is such a strange combinations of smells. It really is a blending of the rich and the poor. You have the smell of department stores and perfume intermingling with the smell of piss and the occasional hot dog cart. I find it fascinating and depressing how San Francisco attempts to gild over its rampant homeless problem. 
 
