@@ -18,7 +18,5 @@ It was a wonderful Sunday, and very nice to do an hour walk without a hill for o
 ![spider tree.png]({{site.baseurl}}/images/spider tree.png)      
 Spider Tree makes me uncomfortable   
 
-![massive trees .png]({{site.baseurl}}/images/massive trees .png)         
-The eucalyptus trees were _so_ big!  
-
-
+![Screen Shot 2017-07-02 at 7.25.52 PM.png]({{site.baseurl}}/images/Screen Shot 2017-07-02 at 7.25.52 PM.png)
+Strolling through Masters Grove
