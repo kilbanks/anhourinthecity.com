@@ -19,7 +19,6 @@ layout: default
       </div>
 
     </article>
-    {% if page.comments %}
     <div id="disqus_thread"></div>
 <script>
 /**
@@ -34,6 +33,9 @@ this.page.identifier = 'ahitc_p_{% page.day %}'; // Replace PAGE_IDENTIFIER with
 this.page.identifier = {% page.title %}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 {% endif %}
 };
+ </script>
+{% if page.comments %}
+<script>
 // */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
