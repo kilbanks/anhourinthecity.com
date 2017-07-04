@@ -27,11 +27,7 @@ layout: default
 //*
 var disqus_config = function () {
 this.page.url = {{ page.url }};  // Replace PAGE_URL with your page's canonical URL variable
-{% if page.day %}
-this.page.identifier = 'ahitc_p_{{ page.day }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-{% else %}
-this.page.identifier = {{ page.title }}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-{% endif %}
+this.page.identifier = {{ page.id }}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
  </script>
 {% if page.comments %}
