@@ -27,6 +27,7 @@ defaults:
       type: "posts"
     values:
       layout: post
+      comments: true
 
 prose:
   rooturl: '_posts'
