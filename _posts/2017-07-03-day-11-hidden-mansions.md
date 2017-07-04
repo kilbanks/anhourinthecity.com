@@ -8,7 +8,7 @@ Today Chris & I set off for Lafayette park in Pacific Heights! The walk ended up
 
 After hiking up several hills (it’s not called Pacific Heights for nothing) Chris & I ended up in the middle of a lovely park! Not only did it have several picnic tables and a dog park, but it also boasted sights of the Bay and Alcatraz. 
 
-The most fascinating thing to us though was a massive mansion that we could see peaking over the park.  Looking up in San Francisco can be hard because there’s normally poop all over the sidewalk and you don’t want to step in it. There’s also always the question of if it’s human or dog poop. Majority times it’s human. 
+The most fascinating thing to us though was a massive mansion that we could see peaking over the park.  Looking up in San Francisco can be hard because there’s normally poop all over the sidewalk and you don’t want to step in it. There’s also always the question of if it is human or dog poop. Majority times it’s human. 
 
 Anyways, I’m glad we looked up today because without it we wouldn’t have seen the crest of what we now know is Spreckels Mansion! 
 
