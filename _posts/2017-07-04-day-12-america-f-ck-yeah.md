@@ -15,8 +15,8 @@ Today’s walk felt a bit healing. These aren’t the easiest times in America, 
 
 Chris & I also overheard the funniest line EVER. 
 
-Woman: “The city is bountiful and will provide.”
-Woman’s friend: “What does that mean?”
-Woman: “IT MEANS WE’RE SMOKIN!”
+Woman: “The city is bountiful and will provide.”   
+Woman’s friend: “What does that mean?”   
+Woman: “IT MEANS WE’RE SMOKIN!”   
 
-Happy Fourth of July, everyone!!! I hope you feel inspired today! 
+Happy Fourth of July, everyone!!! I hope you feel inspired today!
