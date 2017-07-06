@@ -12,4 +12,4 @@ I like to call walking into work “riding the caterpillar”, because it’s ve
 
 Walking home from work, on the other hand, feels much more chaotic. I get the sense that everyone is so ready to get home, they don’t have time for you or the city’s shit. I get can behind that; going home and taking off my bra is the pot of gold at the end of my rainbow. 
 
-I love my new job and I love my new walk! Chris and I can walk together, which is always a plus. I get to walk by Union Square and see Alma Speckles everyday & I walk by the cutest boutiques and stores. The urge to shop is strong in this one, so that could eventually become a terrible temptation, but for now I’m content to window shop and stroll on by!
+I love my new job and I love my new walk! Chris and I can walk together, which is always a plus. I get to walk by Union Square and see Alma Spreckles everyday & I walk by the cutest boutiques and stores. The urge to shop is strong in this one, so that could eventually become a terrible temptation, but for now I’m content to window shop and stroll on by!
