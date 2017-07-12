@@ -21,7 +21,7 @@ On the walk home, I wanted to take the short, easy way (again; getting old) but 
 My walk and our sibling dinner was the perfect end to a Tuesday! 
 
 ![Screen Shot 2017-07-11 at 9.59.32 PM.png]({{site.baseurl}}/images/Screen Shot 2017-07-11 at 9.59.32 PM.png)  
-A picture Jaclyn snapped of me while yelling at my window at them when they stopped to say hello! 
+A picture Jaclyn snapped of me while yelling out my window at them when they stopped to say hello! 
 
 ![Screen Shot 2017-07-11 at 9.59.51 PM.png]({{site.baseurl}}/images/Screen Shot 2017-07-11 at 9.59.51 PM.png)  
 Grace Cathedral lit up against the night sky
