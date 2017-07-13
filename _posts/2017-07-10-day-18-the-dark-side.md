@@ -1,6 +1,6 @@
 ---
 day: 18
-date: '2017-07-10 17:32 -0700'
+date: '2017-07-10 '
 published: true
 title: 'Day 18: The Dark Side'
 ---
@@ -23,5 +23,3 @@ That is the conundrum of San Francisco
 
 
 [Click here](https://handup.org/funds/thesffund?gclid=Cj0KEQjwy4zLBRCOg6-4h6vs3cUBEiQAN-yzfl5CVqeWQ1auxa7XdsxmvmdXteVYSve9soY4wLomzB4aAgsg8P8HAQ) if you'd like to donate to the homeless problem in SF.
-
-
