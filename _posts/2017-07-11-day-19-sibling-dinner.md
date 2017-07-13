@@ -1,6 +1,6 @@
 ---
 day: 19
-date: '2017-07-11 21:49 -0700'
+date: '2017-07-11 '
 published: true
 title: 'Day 19: Sibling Dinner'
 ---
