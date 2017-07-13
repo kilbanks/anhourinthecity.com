@@ -1,6 +1,6 @@
 ---
 day: 20
-date: '2017-07-12 20:15 -0700'
+date: '2017-07-12'
 published: true
 title: 'Day 20: A Gilded City'
 ---
