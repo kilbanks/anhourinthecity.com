@@ -12,4 +12,4 @@ The endless hills, Karl the fog, the views, the Golden Gate Bridge (my favorite 
 
 Walking to and from work is also just the best thing. Chris was teasing me this morning because I had my banana and my backpack for my walk. All the tools necessary for a successful stroll. I also often get to to meet my friend Ben and walk home from work with him because of the proximity of our offices. It's such a small world in a big city and I think that's just fantastic!
 
-It's a weird gilded city, but it's my gilded city. 
+It's a weird gilded city, but it's my gilded city.
