@@ -1,6 +1,6 @@
 ---
 day: 21
-date: '2017-07-13 20:01 -0700'
+date: '2017-07-13'
 published: true
 title: 'Day 21:  Terrific Thursday'
 ---
@@ -26,4 +26,4 @@ To which he quipped "one for each finger, eh?"
 
 It was the **most** British thing and I loved it.
 
-All in all, it was a great Thursday that ended on my company's roof!  
+All in all, it was a great Thursday that ended on my company's roof!
