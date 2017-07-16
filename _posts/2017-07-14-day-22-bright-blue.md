@@ -17,4 +17,3 @@ While walking around, I decided to take out my headphones and enjoy the sounds o
 The ocean seems calms me, something I appreciate during this anxiety ridden time of my life. The one thing I don’t think I’ll ever get used to is the smell. All oceans kinda just smell like dead rotting fish. They also freak me out a little bit (RIP TIDES THO), but I’ll always at least wade a little! 
 
 ![bay bridge.png]({{site.baseurl}}/images/bay bridge.png)
-
