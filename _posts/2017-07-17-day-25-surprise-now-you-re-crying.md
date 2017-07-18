@@ -6,7 +6,7 @@ title: 'Day 25: Surprise...Now You''re Crying!'
 ---
 Today I noticed that walking through a massive crowd from a bus letting out is a bit like walking through a zombie herd. I just want to groan "brainnnns" and shuffle my way out it. Why are tourists so slow?!
 
-This morning was very bright and I wore my glasses. A blinding mistake! No sunglasses can be rough here. The sun reflects off the tall buildings. I pretty much just have to look down the entire time, which at least means that I avoid the poop!
+This morning was very bright and I wore my glasses. A blinding mistake! No sunglasses can be rough here. The sun reflects off the tall buildings and it's intense. I pretty much just have to look down the entire time, which at least means that I avoid the poop!
 
 Highlight of my walk was definitely when I saw a tech bro checking himself out in the glass windows. Don't get me wrong, I use the window reflections as my own personal catwalk every morning, but never before have I rubbed my stomach while doing it. I've DEFINITELY never blown myself a kiss while doing it either! It was an amazig thing to witness. Although, while laughing & writing about this instance, I did trip and almost fall. Karma got me in the end! You do you tech bro- I won't judge (except maybe a little). 
 
