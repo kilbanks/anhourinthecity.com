@@ -1,6 +1,6 @@
 ---
 day: 25
-date: '2017-07-17 20:01 -0700'
+date: '2017-07-17 '
 published: true
 title: 'Day 25: Surprise...Now You''re Crying!'
 ---
