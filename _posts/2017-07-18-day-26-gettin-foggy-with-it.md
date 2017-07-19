@@ -20,9 +20,3 @@ Other than being caught playing air guitar at a red light (They clapped. I blush
 
 ![Screen Shot 2017-07-18 at 5.30.30 PM.png]({{site.baseurl}}/images/Screen Shot 2017-07-18 at 5.30.30 PM.png)   
 Alma Spreckels : The Great-Grandmother of San Francisco
-
-
-
-
-
-
