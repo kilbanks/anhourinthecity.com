@@ -19,7 +19,7 @@ It was an amazing find that I just stumbled upon, like so many other subjects of
 I also noticed that a new place called “The Color Factory” is opening near my apartment. The building is painted in brightly colored stripes and I’m so intrigued! 
 
 ![Screen Shot 2017-07-19 at 7.45.35 PM.png]({{site.baseurl}}/images/Screen Shot 2017-07-19 at 7.45.35 PM.png)   
-You can see the wind blowing the fountain water & on that family haha
+You can see the wind blowing the fountain water on that family haha
 
 ![Screen Shot 2017-07-19 at 7.45.05 PM.png]({{site.baseurl}}/images/Screen Shot 2017-07-19 at 7.45.05 PM.png)    
 Some small detail of the fountain
