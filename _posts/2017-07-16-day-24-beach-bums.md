@@ -1,6 +1,6 @@
 ---
 day: 24
-date: '2017-07-16 18:12 -0700'
+date: '2017-07-16'
 published: true
 title: 'Day 24: Beach Bums'
 ---
@@ -21,8 +21,3 @@ I’ll never know what is it about lying around in the sun all day that wears on
 Happy Sunday Funday, everyone! WINTER IS COMING!!
 
 ![Screen Shot 2017-07-16 at 6.13.31 PM.png]({{site.baseurl}}/images/Screen Shot 2017-07-16 at 6.13.31 PM.png)
-
-
-
-
-
