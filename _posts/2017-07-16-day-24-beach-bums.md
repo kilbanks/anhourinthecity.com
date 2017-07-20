@@ -1,6 +1,6 @@
 ---
 day: 24
-date: '2017-07-16'
+date: '2017-07-16 '
 published: true
 title: 'Day 24: Beach Bums'
 ---
