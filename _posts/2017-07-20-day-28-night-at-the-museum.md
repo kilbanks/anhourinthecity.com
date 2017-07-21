@@ -11,9 +11,9 @@ Every Thursday the SF Science museum puts on a nighttime exhibit, and this week 
 
 Never fear though, we had beers! 
 
-The beer I was drinking was actually brewed with the plants they grow on the roof the building, It was slightly bitter and very tasty. I’ve only recently started drinking beer & I love it! I never would have thought I would say that a year or two ago, but I get it now. I think sour beers were the perfect bridge.
+The beer I was drinking was actually brewed with the plants they grow on the roof of the building. It was slightly bitter and very tasty. I’ve only recently started drinking beer & I love it! I never would have thought I would say that a year or two ago, but I get it now. I think sour beers were the perfect bridge.
 
-The museum was pretty crowded and difficult to walk through at times. It made me think about how even when I’m drunk, I still try to be aware of being in the way of the people around me. I thought this was just common sense/courtsey but I was wrong. If walking in the city has taught me anything, it’s that most people don’t have time for anyone’s shit but their own. 
+The museum was pretty crowded and difficult to walk through at times. It made me think about how even when I’m buzzed, I still try to be aware of being in the way of the people around me. I thought this was just common sense/courtsey but I was wrong. If walking in the city has taught me anything, it’s that most people don’t have time for anyone’s shit but their own. 
 
 The event was 21+ and it was awesome! Chris and I tend to avoid museums like that during the day because they’re normally overrun with screaming children. Today it was just overrun with oblivious adults. I can deal with that! 
 
@@ -35,6 +35,3 @@ Science gang
 
 ![Screen Shot 2017-07-20 at 10.17.15 PM.png]({{site.baseurl}}/images/Screen Shot 2017-07-20 at 10.17.15 PM.png)   
 When we realized how original our fashion is.
-
-
-
