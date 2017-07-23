@@ -1,7 +1,7 @@
 ---
-day: 0
-date: '2017-07-22 17:48 -0700'
-published: false
+day: 30
+date: '2017-07-22 '
+published: true
 title: 'Day 30: That''s All Folks'
 ---
 I was very reflective  on my last walk today. I'm proud of myself for committing to my goal and succeeding. **I did it!** I’ve proven to myself that when I set my mind to something, I can achieve it. Did these walks cure my anxiety and all my problems? No. Did they take me out of my rushing thoughts and give me a moment of peace? Yes.
