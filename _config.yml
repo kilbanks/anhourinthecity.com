@@ -30,22 +30,21 @@ defaults:
       comments: true
 
 prose:
-  rooturl: '_posts'
+  rooturl: 'hair/_posts'
   siteurl: 'http://anhourinthecity.com/'
   media: 'images'
   metadata:
-    _posts:
+    hair/_posts:
       - name: "title"
         field:
           element: "text"
           label: "title"
-      - name: "day"
-        field:
-          element: "number"
-          label: "Day number"
-          type: "number"
       - name: "date"
         field:
           element: "text"
           value: "CURRENT_DATETIME"
           label: "Post date"
+      - name: "thumbnail"
+        field:
+          element: "image"
+          label: "Thumbnail Image"
