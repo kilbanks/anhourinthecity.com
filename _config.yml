@@ -30,11 +30,11 @@ defaults:
       comments: true
 
 prose:
-  rooturl: 'hair/_posts'
+  rooturl: 'hair'
   siteurl: 'http://anhourinthecity.com/'
   media: 'images/hair/'
   metadata:
-    hair/_posts:
+    hair:
       - name: "title"
         field:
           element: "text"
