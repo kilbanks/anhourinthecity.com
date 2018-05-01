@@ -38,7 +38,11 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"
+          label: "Post Title"
+      - name: "thumbnail"
+        field:
+          element: "text"
+          label: "Thumbnail Name"
       - name: "date"
         field:
           element: "text"
