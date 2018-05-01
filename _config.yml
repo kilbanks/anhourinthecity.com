@@ -32,7 +32,7 @@ defaults:
 prose:
   rooturl: 'hair/_posts'
   siteurl: 'http://anhourinthecity.com/'
-  media: 'images'
+  media: 'images/hair/'
   metadata:
     hair/_posts:
       - name: "title"
@@ -44,7 +44,3 @@ prose:
           element: "text"
           value: "CURRENT_DATETIME"
           label: "Post date"
-      - name: "thumbnail"
-        field:
-          element: "image"
-          label: "Thumbnail Image"
