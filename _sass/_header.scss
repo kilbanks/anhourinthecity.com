@@ -149,7 +149,6 @@
   background-position: center 20%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(/images/banner.jpg);
 
   box-shadow: 0px 1px 4px 0px $grey-color-dark;
 
@@ -159,5 +158,12 @@
   }
   @include media-query(600px) {
     min-height: 200px;
+  }
+
+  &.walkthisway {
+    background-image: url(/images/banners/legs.jpg);
+  }
+  &.balance {
+    background-image: url(/images/banners/balance.jpg);
   }
 }

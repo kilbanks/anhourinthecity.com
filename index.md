@@ -1,14 +1,16 @@
 ---
 layout: default
-title: An Hour In The City
 permalink: /
+banner: balance
 ---
-Welcome! My name is Kayla and I’m flaky... but mostly when it comes to myself. How many times have we all promised to commit to ourselves be it working out, eating healthy, or learning an instrument, just to have it fall through? If you never have then join the X-men, because you’re a mutant. Now that I’m 27 I find myself wanting to commit to myself more and more, and actually stick with it. Novel concept, I know.  
+I have curly hair...well I used to. All the hot tools I've used over the last year or two have totally destroyed every ringlet or wave that I had. Good bye Shirley Temple, hello Scarecrow - except instead of wishing for a brain, I'm wishing for gorgeous curls again.
 
-I invite you all to join me  on my birthday gift to myself, a commitment to walking an hour every day for 30 days & writing about what I see. I live in San Francisco, so an hour long walk is bound to be entertaining. Or maybe it won’t & I’ll be miserable, who knows. This commitment seems small in the grand scheme of things, but it’s mine & I like it. I hope you will too. 
+Over the next month I'm going to set out on a journey to reclaim my goldilocks, and I'm going to share it with all of you! The good, the bad, and the bound to be ugly. For 31 days I won't even look twice at a hot tool, well maybe I'll look once and then quickly look away before I'm tempted, because I do love my curling iron. My hair is my crowning glory, (ba dum tss) and letting it have a mind of its own will be difficult, but I'm hoping that this May will bring not only flowers but also beautiful golden ringlets! 
+
+Let the challenge begin. 
 
 <div class="tiles row">
-  {% for post in site.posts %}
+  {% for post in site.categories.hair %}
     {% if post.published == true %}
       {% include tile.html post=post display="" %}
     {% endif %}

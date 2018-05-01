@@ -10,7 +10,7 @@
         {% include header.html %}
       </div>
 
-      <div class="page-wide-banner">
+      <div class="page-wide-banner {% if page.banner %}{{ page.banner }}{% else %}{{ page.categories }}{% endif %}">
       </div>
 
       <div class="page-content-holder">
