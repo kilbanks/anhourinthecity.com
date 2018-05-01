@@ -12,7 +12,7 @@ Let the challenge begin.
 <div class="tiles row">
   {% for post in site.categories.hair %}
     {% if post.published == true %}
-      {% include tile.html post=post display="" %}
+      {% include hair-tile.html post=post display="" %}
     {% endif %}
   {% endfor %}
 </div>
