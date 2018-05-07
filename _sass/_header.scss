@@ -163,7 +163,8 @@
   &.walkthisway {
     background-image: url(/images/banners/legs.jpg);
   }
-  &.balance {
+  &.balance, &.hair {
     background-image: url(/images/banners/balance.jpg);
+    background-position: top;
   }
 }
