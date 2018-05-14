@@ -2,7 +2,7 @@
 date: '2018-05-13 20:37 -0700'
 published: true
 title: Keeping My Curl
-thumbnail: Day 7-13
+thumbnail: Day 7-13.png
 ---
 Forgive me follicle, for I have sinned...that's right...I used a hot tool!! Please save your persecution for the end of this blog post! 
 
