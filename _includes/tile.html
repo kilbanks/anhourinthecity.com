@@ -1,5 +1,6 @@
+{% assign thumbnail_folder=include.thumbnail_folder %}
 {% assign post=include.post %}
 <a href="{{ post.url }}" class="tile col-xs-12 col-sm-4">
-  <img src="/images/thumbnails/{{ post.day }}.png" />
+  <img src="/images/{{ thumbnail_folder }}/{{ post.thumbnail }}" />
   <span itemprop="name headline">{{ post.title }}</span>
 </a>

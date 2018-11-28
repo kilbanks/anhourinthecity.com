@@ -30,11 +30,11 @@ defaults:
       comments: true
 
 prose:
-  rooturl: 'hair'
+  rooturl: 'portland'
   siteurl: 'http://anhourinthecity.com/'
-  media: 'images/hair/'
+  media: 'images/portland/'
   metadata:
-    hair:
+    portland:
       - name: "title"
         field:
           element: "text"

@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Walk This Way
+title: San Francisco
 permalink: /walkthisway
 banner: walkthisway
 ---
-# Walk This Way
+# San Francisco
+#### *June 22, 2017*
 
 Welcome! My name is Kayla and I’m flaky... but mostly when it comes to myself. How many times have we all promised to commit to ourselves be it working out, eating healthy, or learning an instrument, just to have it fall through? If you never have then join the X-men, because you’re a mutant. Now that I’m 27 I find myself wanting to commit to myself more and more, and actually stick with it. Novel concept, I know.
 
@@ -13,7 +14,7 @@ I invite you all to join me  on my birthday gift to myself, a commitment to walk
 <div class="tiles row">
   {% for post in site.categories.walkthisway reversed %}
     {% if post.published == true %}
-      {% include tile.html post=post display="" %}
+      {% include sf-tile.html post=post thumbnail_folder="thumbnails" display="" %}
     {% endif %}
   {% endfor %}
 </div>
