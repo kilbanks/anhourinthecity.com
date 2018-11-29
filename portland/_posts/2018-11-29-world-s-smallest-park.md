@@ -15,5 +15,6 @@ I love how quickly we can get into downtown here! We live in a relatively quiet 
 Today's destination was the world smallest park! At 24 inches in diameter and consisting of just 452.16 square inches of land, the park was originally a utility pole hole. A journalist by the name of Dick Fagen used his imagination and now Portland is the proud owner of the world's smallest park! Weddings and other celebrtions have taken place in the park, and it was officially made a park of the city of Portland in 1976. It's really tiny and in the median of a busy road by the river.
  
 While finishing up our walk, Chris and I found a $20 bill on the ground!! We're literally being rewarded for my walks! We had just been talking about how neither of us brought our wallets, so we couldn't reward ourselves with a beer and then *fate gave us a beer*! Shortly after our luck it began to pour...you win some, you lose some. When we got home we were soggy, tired, and $20 bucks richer.
+![smallpark.png]({{site.baseurl}}/images/portland/smallpark.png)
 
 ![Screen Shot 2018-11-29 at 9.07.11 AM.png]({{site.baseurl}}/images/portland/Screen%20Shot%202018-11-29%20at%209.07.11%20AM.png)
