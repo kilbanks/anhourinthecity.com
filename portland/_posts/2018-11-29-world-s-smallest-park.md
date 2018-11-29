@@ -16,5 +16,4 @@ Today's destination was the world smallest park! At 24 inches in diameter and co
  
 While finishing up our walk, Chris and I found a $20 bill on the ground!! We're literally being rewarded for my walks! We had just been talking about how neither of us brought our wallets, so we couldn't reward ourselves with a beer and then *fate gave us a beer*! Shortly after our luck it began to pour...you win some, you lose some. When we got home we were soggy, tired, and $20 bucks richer.
 
-
-
+![Screen Shot 2018-11-29 at 9.07.11 AM.png]({{site.baseurl}}/images/portland/Screen%20Shot%202018-11-29%20at%209.07.11%20AM.png)
