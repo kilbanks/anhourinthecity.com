@@ -1,6 +1,6 @@
 ---
 date: '2018-11-29 '
-published: false
+published: true
 title: World's Smallest Park
 thumbnail: Day 2.png
 ---
@@ -18,6 +18,3 @@ While finishing up our walk, Chris and I found a $20 bill on the ground!! We're 
 
 ![smallpark.png]({{site.baseurl}}/images/portland/smallpark.png)
 > view from the Morrison bridge
-
-
-
