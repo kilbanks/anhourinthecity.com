@@ -17,8 +17,6 @@ At least I got to explore our new neighborhood some more. We live in the neighbo
 I decided to go a different way home, and explore the zig zags of the neighborhood. I walked up what could have been weird alley way or a driveway. I didn’t know but I took my chances and luckily it was a weird alley. It led me to the other side of our street which we’ve never really explored because it’s cut in half by the cemetery. 
 I even got to walk through the cemetery and by my crows (they're my pets now). 
 
-Not only an am I addicted to the cemetery but I'm hoping that visiting it so often will up my chances of seeing a ghost. Honestly, I want Chris to see one because it would really shake up his whole scientific world. I think getting Chris to see a ghost would be the ultimate troll. Again, really glad I have these walks to think about the deep stuff.
+Not only am I addicted to the cemetery but I'm hoping that visiting it so often will up my chances of seeing a ghost. Honestly, I want Chris to see one because it would really shake up his whole scientific world. I think getting Chris to see a ghost would be the ultimate troll. Again, really glad I have these walks to think about the deep stuff.
 
 I got home just as the sun was setting and it was beautiful. I ended my walk with four books, a numb nose, and a wedgie.
-
-
