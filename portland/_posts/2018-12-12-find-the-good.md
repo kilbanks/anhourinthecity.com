@@ -1,5 +1,5 @@
 ---
-date: '2018-12-12 12:24 -0800'
+date: '2018-12-12 '
 published: true
 title: Find The Good
 thumbnail: Day 5.png
