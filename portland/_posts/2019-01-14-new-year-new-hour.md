@@ -17,4 +17,6 @@ Once we reached the top, it was very windy and cold but so beautiful it was wort
 What a weird, amazing city! 
 
 ![chris.png]({{site.baseurl}}/images/portland/chris.png)
+
+![ksvvv.png]({{site.baseurl}}/images/portland/ksvvv.png)
 > Lewis & Clarking the shit out of this place
