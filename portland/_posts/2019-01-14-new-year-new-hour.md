@@ -1,5 +1,4 @@
 ---
-date: 01-14-2019
 published: true
 title: 'New Year, New Hour'
 thumbnail: day 6.png
@@ -20,5 +19,3 @@ What a weird, amazing city!
 
 ![kv.png]({{site.baseurl}}/images/portland/kv.png)
 > Lewis & Clarking the shit out of this place
-
-
