@@ -2,6 +2,7 @@
 published: true
 title: 'New Year, New Hour'
 thumbnail: day 6.png
+date: '2019-01-14 '
 ---
 Today's walk was actually about 2 hours long and took us through forests, neighborhoods, and finally a view of four volcanoes! There was this weird light in the sky today aka THE SUN, so Chris and I decided to get our daily dose of vitamin D with a hike in the sun instead of a little pill. 
 
