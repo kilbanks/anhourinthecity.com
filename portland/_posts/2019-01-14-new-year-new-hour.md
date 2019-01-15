@@ -18,5 +18,5 @@ What a weird, amazing city!
 
 ![chris.png]({{site.baseurl}}/images/portland/chris.png)
 
-![ksv.png]({{site.baseurl}}/images/portland/ksv.png)
+![ksvv.png]({{site.baseurl}}/images/portland/ksvv.png)
 > Lewis & Clarking the shit out of this place
