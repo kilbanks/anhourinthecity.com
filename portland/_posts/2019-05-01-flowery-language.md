@@ -1,6 +1,6 @@
 ---
 date: '2019-05-01 17:31 -0700'
-published: false
+published: true
 title: Flowery Language
 thumbnail: Flowers.png
 ---
